@@ -3,7 +3,7 @@ Repository นี้สร้างมาเพื่อเป็น guide ใ�
 
 ---
 
-````markdown
+
 # 🏠 House Price Prediction Project
 
 This project uses **Python + linear model + scikit-learn pipelines** to predict house prices based on multiple engineered features such as living area, lot size, renovation age, and more.  
@@ -15,6 +15,8 @@ It includes preprocessing pipelines, feature engineering, and trained machine le
 
 ### 1️⃣ Clone the Repository
 Went into your own selected directory and open the terminal 
+
+````markdown
 ```bash
 git clone https://github.com/Sakolkrit/tutorial-beginner-house-price-prediction.git
 cd tutorial-beginner-house-price-prediction
