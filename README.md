@@ -57,6 +57,7 @@ pip install -r requirements.txt
 
 # Example input (raw data before feature engineering)
 
+```bash
 sample = pd.DataFrame([{
     "date": "2/5/2014  0:00:00",
     "bedrooms": 3,
@@ -76,4 +77,4 @@ sample = pd.DataFrame([{
     "view": 1,
     "condition": 3
 }])
-
+```
